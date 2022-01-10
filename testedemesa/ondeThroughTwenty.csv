@@ -1,0 +1,5 @@
+n;while;meuRetorno;n++;return
+1;true;[1];2;-
+2;true;[1,2];3;-
+3;true;[1,2,3];4;-
+4;false;[1,2,3];-;[1,2,3]

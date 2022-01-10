@@ -1,0 +1,6 @@
+n;while;meuRetorno;n = n+2;return
+2;true;[2];4;-
+4;true;[2,4];6;-
+6;true;[2,4,6];8;-
+8;false;[2,4,6];-;[2,4,6]
+;;;;

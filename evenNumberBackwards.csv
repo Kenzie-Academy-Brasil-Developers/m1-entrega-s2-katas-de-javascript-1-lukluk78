@@ -1,0 +1,6 @@
+contador;for;meuRetorno;contador -= 2;return
+19;true;[19];17;-
+17;true;[19,17];15;-
+15;true;[19,17,15];13;-
+13;true;[19,17,15,13];11;-
+11;false;-;-;[19,17,15,13]
